@@ -8,6 +8,15 @@ Create and share aesthetic screenshots of your code in over 100+ available theme
   <img alt="Screenshot" src="src/lib/icons/screenshot.png" />
 </div>
 
+## Pre-Installation
+
+Install Node.js & npm
+`curl -sL https://deb.nodesource.com/setup_16.x | bash`
+
+```
+## Run `sudo apt-get install -y nodejs` to install Node.js 16.x and npm
+```
+
 ## Installation 🔧
 
 1. Clone this repository using Git.
