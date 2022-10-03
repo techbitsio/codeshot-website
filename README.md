@@ -22,6 +22,7 @@ Install Node.js & npm
 1. Clone this repository using Git.
 2. Open a Node.js command prompt in the root folder of the project.
 3. Run `npm install` to install all dependencies.
+4. Start development server with `npm start`
 
 ## License 📜
 
